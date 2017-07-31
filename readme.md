@@ -1,4 +1,16 @@
-# Great Free and non free macOS apps all can use 🍏
+<h1 align="center"> Great Free and non free macOS apps all can use 🍏 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/macos-apps/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the amazing macOS apps one can use to learn new things and discover new insights faster. 🔭
 
@@ -10,7 +22,8 @@ Pull requests are welcome. Thank you. 💙
 - [awesome mac](https://github.com/jaywcjlove/awesome-mac)
 - [awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 
-# Apps
+
+<h1 align="center"> Apps </h1>
 
 # video
 

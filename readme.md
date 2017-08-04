@@ -1,4 +1,4 @@
-<h1 align="center"> Great Free and non free macOS apps all can use 🍏 </h1>
+<h1 align="center"> Great Free and non free macOS apps all can use 💻 </h1>
 
 <div align="center">
 <a href="https://www.patreon.com/learnanything">

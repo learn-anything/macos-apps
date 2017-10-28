@@ -1,7 +1,6 @@
 # Great free and non free macOS apps all can use 💻 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 ## Description 📕
-Here is a curated list of all the the amazing macOS apps one can use to learn new things and discover new insights faster. 🔭
+Here is a curated list of all the the amazing macOS apps one can use to learn new things and discover new insights faster. 
 
 Pull requests are welcome. Thank you. 💙
 
@@ -16,7 +15,7 @@ Pull requests are welcome. Thank you. 💙
 - [VLC](http://www.videolan.org/vlc/download-macosx.html)
 - [mpv](https://mpv.io/)
 - [Dragand](http://dragand.watch/)
-- [IINA 🐙](https://github.com/lhc70000/iina)
+- [IINA](https://github.com/lhc70000/iina)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [QuickCast](http://quickcast.io/)
 
@@ -55,20 +54,20 @@ Pull requests are welcome. Thank you. 💙
 - [karabiner](https://pqrs.org/osx/karabiner/)
 - [alfred](https://www.alfredapp.com/)
 - [typinator](http://www.ergonis.com/products/typinator/)
-- [bearded spice 🐙](https://github.com/beardedspice/beardedspice)
+- [bearded spice](https://github.com/beardedspice/beardedspice)
 - [hammerspoon](http://www.hammerspoon.org/)
 - [popclip](https://pilotmoon.com/popclip/)
-- [bitbar 🐙](https://github.com/matryer/bitbar)
+- [bitbar](https://github.com/matryer/bitbar)
 - [dropzone 3](https://aptonic.com/)
 - [unclutter](https://unclutterapp.com/)
 - [daisy disk](https://daisydiskapp.com/)
-- [gitify 🐙](https://github.com/manosim/gitify)
+- [gitify](https://github.com/manosim/gitify)
 - [spotifree](http://spotifree.gordinskiy.com/)
 - [name mangler](https://manytricks.com/namemangler/)
 - [iStat menus](https://bjango.com/mac/istatmenus/)
 - [clean my mac 3](https://macpaw.com/cleanmymac)
 - [little snitch](https://www.obdev.at/products/littlesnitch/index.html)
-- [lumen 🐙](https://github.com/anishathalye/lumen)
+- [lumen](https://github.com/anishathalye/lumen)
 - [keka](http://www.kekaosx.com/en/)
 - [bartender](https://www.macbartender.com/)
 

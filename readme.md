@@ -117,10 +117,10 @@ Pull requests are welcome. Thank you. 💙
 - [sublime text](https://www.sublimetext.com/)
 - [vs code](https://code.visualstudio.com/)
 
-# Crypto
+### Crypto
 - [1password](https://1password.com/)
 - [hider 2](https://macpaw.com/hider)
 
-# IDE
+### IDE
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)

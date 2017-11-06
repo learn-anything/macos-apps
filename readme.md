@@ -1,14 +1,13 @@
-# Great free and non free macOS apps all can use 💻 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the the amazing macOS apps one can use to learn new things and discover new insights faster. 
+# Interesting macOS apps [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the the amazing macOS apps.
 
-### Related websites / repositories 
+Pull requests are welcome. Thank you. 💜 
+
+## Related websites / repositories 
 - [awesome open source mac apps](https://github.com/jeffreyjackson/mac-apps)
 - [awesome mac](https://github.com/jaywcjlove/awesome-mac)
 - [awesome macOS](https://github.com/iCHAIT/awesome-macOS)
-
 
 ## macOS apps
 ### Video 
@@ -123,3 +122,6 @@ Pull requests are welcome. Thank you. 💙
 ### IDE
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
+
+## Contribute 
+If you found a macOS app that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).

@@ -11,29 +11,29 @@ Pull requests are welcome. Thank you. 💜
 
 ## macOS apps
 ### Video 
-- [VLC](http://www.videolan.org/vlc/download-macosx.html)
-- [mpv](https://mpv.io/)
 - [Dragand](http://dragand.watch/)
 - [IINA](https://github.com/lhc70000/iina)
-- [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+- [mpv](https://mpv.io/)
 - [QuickCast](http://quickcast.io/)
+- [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+- [VLC](http://www.videolan.org/vlc/download-macosx.html)
 
 ### Images
-- [pixave](http://www.littlehj.com/)
 - [flume](https://flumeapp.com/)
+- [pixave](http://www.littlehj.com/)
 
 ### Finance
 - [ynab](http://classic.youneedabudget.com/download/ynab4)
 
 ### Productivity
 - [2Do](https://www.2doapp.com/)
-- [MindNode](https://mindnode.com/)
-- [keyboard maestro](https://www.keyboardmaestro.com/main/)
 - [BetterTouchTool](https://www.boastr.net/)
-- [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
-- [next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [fantastical](https://flexibits.com/fantastical)
+- [keyboard maestro](https://www.keyboardmaestro.com/main/)
+- [MindNode](https://mindnode.com/)
+- [next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [timing 2](https://betalist.com/startups/timing-2)
+- [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 - [Xccello](http://xccello.com/)
 
 ### Learning
@@ -41,13 +41,13 @@ Pull requests are welcome. Thank you. 💜
 - [soulver](http://acqualia.com/soulver/)
 
 ### Databases
-- [sequel pro](https://www.sequelpro.com/)
 - [mongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+- [sequel pro](https://www.sequelpro.com/)
 
 ### Reading
+- [iBooks](https://www.apple.com/lae/ibooks/)
 - [pdf expert](https://pdfexpert.com/)
 - [reeder 3](http://reederapp.com/mac/)
-- [iBooks](https://www.apple.com/lae/ibooks/)
 
 ### Utilities
 - [alfred](https://www.alfredapp.com/)
@@ -80,10 +80,10 @@ Pull requests are welcome. Thank you. 💜
 - [textual](https://www.codeux.com/textual/)
 
 ### Design
-- [sketch](https://www.sketchapp.com/)
-- [sip](http://sipapp.io/)
-- [pixelmator](http://www.pixelmator.com/mac/)
 - [patina](http://www.patinaapp.com/)
+- [pixelmator](http://www.pixelmator.com/mac/)
+- [sip](http://sipapp.io/)
+- [sketch](https://www.sketchapp.com/)
 - [svgsus](http://www.svgs.us/)
 
 ### Games
@@ -94,28 +94,28 @@ Pull requests are welcome. Thank you. 💜
 - [paprika recipe manager](https://www.paprikaapp.com/)
 
 ### Music
-- [spotify](https://www.spotify.com/)
 - [noizio](http://noiz.io/)
+- [spotify](https://www.spotify.com/)
 
 ### Writing
 - [day one](http://dayoneapp.com/)
-- [ulysses](https://www.ulyssesapp.com/)
 - [MacDown](https://macdown.uranusjr.com/)
-- [texpad](https://www.texpad.com/)
 - [marked 2](http://marked2app.com/)
+- [texpad](https://www.texpad.com/)
+- [ulysses](https://www.ulyssesapp.com/)
 
 ### Code
-- [iTerm](https://www.iterm2.com/)
-- [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [dash](https://kapeli.com/dash)
+- [iTerm](https://www.iterm2.com/)
 - [paw](https://paw.cloud/)
+- [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [tower](https://www.git-tower.com/mac/)
 
 ### Text Editors
+- [atom](https://atom.io)
 - [code runner](https://coderunnerapp.com/)
 - [sublime text](https://www.sublimetext.com/)
 - [vs code](https://code.visualstudio.com/)
-- [atom](https://atom.io)
 
 ### Crypto
 - [1password](https://1password.com/)

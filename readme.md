@@ -114,6 +114,7 @@ Pull requests are welcome. Thank you. 💜
 - [code runner](https://coderunnerapp.com/)
 - [sublime text](https://www.sublimetext.com/)
 - [vs code](https://code.visualstudio.com/)
+- [atom](https://atom.io)
 
 ### Crypto
 - [1password](https://1password.com/)

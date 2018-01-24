@@ -87,13 +87,6 @@
 - [Noizio](http://noiz.io/)
 - [Spotify](https://www.spotify.com/)
 
-## Writing
-- [Day One](http://dayoneapp.com/)
-- [MacDown](https://macdown.uranusjr.com/)
-- [Marked 2](http://marked2app.com/)
-- [Texpad](https://www.texpad.com/)
-- [Ulysses](https://www.ulyssesapp.com/)
-
 ## Code
 - [Dash](https://kapeli.com/dash)
 - [iTerm](https://www.iterm2.com/)

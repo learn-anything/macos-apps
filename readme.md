@@ -1,6 +1,14 @@
 # Interesting macOS apps [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+## Writing
+- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS.
+- [Day One](http://dayoneapp.com/)
+- [MacDown](https://macdown.uranusjr.com/)
+- [Marked 2](http://marked2app.com/)
+- [Texpad](https://www.texpad.com/)
+- [Ulysses](https://www.ulyssesapp.com/)
+
 ## Video
 - [Dragand](http://dragand.watch/)
 - [IINA](https://github.com/lhc70000/iina)

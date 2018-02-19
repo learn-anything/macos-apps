@@ -2,12 +2,12 @@
 *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## Writing
-- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS.
 - [Day One](http://dayoneapp.com/)
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
-- [Ulysses](https://www.ulyssesapp.com/)
+- [Ulysses](https://ulyssesapp.com/) - Writing app.
+- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 
 ## Video
 - [Dragand](http://dragand.watch/)
@@ -16,18 +16,18 @@
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 
 ## Images
+- [Pixave](http://www.littlehj.com/) - Image organizer.
 - [Flume](https://flumeapp.com/)
-- [Pixave](http://www.littlehj.com/)
 
 ## Finance
 - [YNAB](http://classic.youneedabudget.com/download/ynab4)
 
 ## Productivity
-- [2Do](https://www.2doapp.com/)
+- [2Do](https://www.2doapp.com/) - Powerful & flexible GTD task manager.
 - [BetterTouchTool](https://www.boastr.net/)
 - [Fantastical](https://flexibits.com/fantastical)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
-- [MindNode](https://mindnode.com/)
+- [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [Timing 2](https://betalist.com/startups/timing-2)
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
@@ -48,7 +48,7 @@
 - [Reeder 3](http://reederapp.com/mac/)
 
 ## Utilities
-- [Alfred](https://www.alfredapp.com/)
+- [Alfred](https://www.alfredapp.com/) - Customisable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
 - [Bartender](https://www.macbartender.com/)
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
@@ -62,7 +62,7 @@
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Lumen](https://github.com/anishathalye/lumen)
 - [Hammerspoon](http://www.hammerspoon.org/)
-- [Karabiner](https://pqrs.org/osx/karabiner/)
+- [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful keyboard customizer.
 - [Name mangler](https://manytricks.com/namemangler/)
 - [Popclip](https://pilotmoon.com/popclip/)
 - [Spotifree](http://spotifree.gordinskiy.com/)

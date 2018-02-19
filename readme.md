@@ -18,6 +18,7 @@
 ## Images
 - [Pixave](http://www.littlehj.com/) - Image organizer.
 - [Flume](https://flumeapp.com/)
+- [Wallcat](https://beta.wall.cat/) - New wallpaper everyday.
 
 ## Finance
 - [YNAB](http://classic.youneedabudget.com/download/ynab4)
@@ -26,12 +27,13 @@
 - [2Do](https://www.2doapp.com/) - Powerful & flexible GTD task manager.
 - [BetterTouchTool](https://www.boastr.net/)
 - [Fantastical](https://flexibits.com/fantastical)
-- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [Timing 2](https://betalist.com/startups/timing-2)
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
+- [Ship](https://www.realartists.com)
 
 ## Learning
 - [Anki](https://apps.ankiweb.net/)
@@ -49,7 +51,7 @@
 
 ## Utilities
 - [Alfred](https://www.alfredapp.com/) - Customisable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
-- [Bartender](https://www.macbartender.com/)
+- [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
 - [Brew](https://brew.sh)
@@ -66,7 +68,7 @@
 - [Name mangler](https://manytricks.com/namemangler/)
 - [Popclip](https://pilotmoon.com/popclip/)
 - [Spotifree](http://spotifree.gordinskiy.com/)
-- [Typinator](http://www.ergonis.com/products/typinator/)
+- [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
 
 ## Communication

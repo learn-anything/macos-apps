@@ -60,6 +60,7 @@
 - [Dropzone 3](https://aptonic.com/)
 - [IStat menus](https://bjango.com/mac/istatmenus/)
 - [Gitify](https://github.com/manosim/gitify)
+- [Kap](https://getkap.co/)
 - [Keka](http://www.kekaosx.com/en/)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Lumen](https://github.com/anishathalye/lumen)

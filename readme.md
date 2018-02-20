@@ -109,7 +109,7 @@
 - [Atom](https://atom.io)
 - [Code runner](https://coderunnerapp.com/)
 - [Sublime Text](https://www.sublimetext.com/)
-- [Vs code](https://code.visualstudio.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 ## Crypto
 - [1Password](https://1password.com/)

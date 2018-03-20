@@ -98,6 +98,7 @@
 ## Music
 - [Noizio](http://noiz.io/)
 - [Spotify](https://www.spotify.com/)
+- [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
 
 ## Code
 - [Dash](https://kapeli.com/dash)
@@ -121,9 +122,9 @@
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 
 ## Related
-- [Awesome open source mac apps](https://github.com/jeffreyjackson/mac-apps)
-- [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
-- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
+- [Awesome open source mac apps](https://github.com/jeffreyjackson/mac-apps#readme)
+- [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).

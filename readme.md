@@ -8,6 +8,7 @@
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
+- [Moopato](https://moopato.com/) - Write and publish your eBook with Markdown and distraction-free.
 
 ## Video
 - [Dragand](http://dragand.watch/)

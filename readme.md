@@ -122,7 +122,8 @@
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 
 ## Related
-- [Awesome open source mac apps](https://github.com/jeffreyjackson/mac-apps#readme)
+- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+- [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps#readme)
 - [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
 

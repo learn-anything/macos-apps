@@ -107,6 +107,7 @@
 - [iTerm](https://www.iterm2.com/)
 - [Paw](https://paw.cloud/)
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
+- [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Tower](https://www.git-tower.com/mac/)
 
 ## Text Editors

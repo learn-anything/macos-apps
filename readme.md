@@ -56,6 +56,7 @@
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
 - [Brew](https://brew.sh)
+- [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
 - [Daisy disk](https://daisydiskapp.com/)
 - [Dropzone 3](https://aptonic.com/)
@@ -72,6 +73,7 @@
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
+- [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
 
 ## Communication
 - [Slack](https://slack.com/)

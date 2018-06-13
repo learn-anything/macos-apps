@@ -130,6 +130,7 @@
 - [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps#readme)
 - [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
+- [My macOS](https://github.com/nikitavoloboev/my-mac-os#readme) - Curated list of tools & apps.
 
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).

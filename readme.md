@@ -1,7 +1,7 @@
 # Awesome macOS apps [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
-## Writing
+## Write
 - [Day One](http://dayoneapp.com/)
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
@@ -36,7 +36,7 @@
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
 - [Ship](https://www.realartists.com)
 
-## Learning
+## Learn
 - [Anki](https://apps.ankiweb.net/)
 - [Soulver](http://acqualia.com/soulver/)
 
@@ -45,14 +45,15 @@
 - [Sequel pro](https://www.sequelpro.com/)
 - [Postico](https://eggerapps.at/postico/)
 
-## Reading
+## Read
 - [iBooks](https://www.apple.com/lae/ibooks/)
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
 
 ## Utilities
-- [Alfred](https://www.alfredapp.com/) - Customisable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
+- [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
 - [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
+- [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
 - [Brew](https://brew.sh)

@@ -34,7 +34,6 @@
 - [Timing 2](https://betalist.com/startups/timing-2)
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
-- [Ship](https://www.realartists.com)
 
 ## Learn
 - [Anki](https://apps.ankiweb.net/)

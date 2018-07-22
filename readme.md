@@ -91,6 +91,10 @@
 - [Sketch](https://www.sketchapp.com/)
 - [Svgsus](http://www.svgs.us/)
 
+## Terminal emulators
+- [iTerm](https://github.com/gnachman/iTerm2)
+- [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator.
+
 ## Games
 - [MineCraft](https://minecraft.net/en-us/)
 - [Stockfish](https://stockfishchess.org/)

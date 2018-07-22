@@ -125,6 +125,9 @@
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 
+## Other
+- [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
+
 ## Related
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 - [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps#readme)

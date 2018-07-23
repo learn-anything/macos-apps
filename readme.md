@@ -20,8 +20,8 @@
 - [Flume](https://flumeapp.com/)
 - [Wallcat](https://beta.wall.cat/) - New wallpaper everyday.
 
-## Finance
-- [YNAB](http://classic.youneedabudget.com/download/ynab4)
+## Audio
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 
 ## Productivity
 - [2Do](https://www.2doapp.com/) - Powerful & flexible GTD task manager.

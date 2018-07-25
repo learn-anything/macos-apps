@@ -19,7 +19,7 @@
 - [Pixave](http://www.littlehj.com/) - Image organizer.
 - [Flume](https://flumeapp.com/)
 - [Wallcat](https://beta.wall.cat/) - New wallpaper everyday.
-- GIF Brewery
+- [GIF Brewery](http://gifbrewery.com/) - Create/edit GIFs.
 
 ## Audio
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.

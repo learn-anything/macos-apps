@@ -76,6 +76,7 @@
 - [Unclutter](https://unclutterapp.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
 - [Pacifist](http://www.charlessoft.com/) - Opens Mac OS X .pkg package files, .dmg disk images, and .zip, .tar, .tar.gz, .tar.bz2, and .xar archives and allows you to extract individual files and folders out of them.
+- [HexFriend](https://github.com/ridiculousfish/HexFiend/) - Fast and clever open source hex editor.
 
 ## Communication
 - [Slack](https://slack.com/)

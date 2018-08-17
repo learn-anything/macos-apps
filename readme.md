@@ -10,10 +10,10 @@
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 
 ## Video
-- [Dragand](http://dragand.watch/)
 - [IINA](https://github.com/lhc70000/iina)
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+- [Dragand](http://dragand.watch/)
 
 ## Images
 - [Pixave](http://www.littlehj.com/) - Image organizer.

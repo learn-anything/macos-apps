@@ -91,7 +91,10 @@
 - [Pixelmator](http://www.pixelmator.com/mac/)
 - [Sip](http://sipapp.io/)
 - [Sketch](https://www.sketchapp.com/)
-- [Svgsus](http://www.svgs.us/)
+- [Svgsus](http://www.svgs.us/) - Organize, clean and transform your SVGs.
+- [Type Case](https://itunes.apple.com/us/app/type-case/id994524929?mt=12) - Preview fonts installed on your mac.
+- [Iconizer](http://raphaelhanneken.github.io/iconizer/) - Create Xcode asset catalogs on the fly.
+- [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures.
 
 ## Terminal emulators
 - [iTerm](https://github.com/gnachman/iTerm2)
@@ -110,12 +113,18 @@
 - [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
 
 ## Code
-- [Dash](https://kapeli.com/dash)
 - [iTerm](https://www.iterm2.com/)
+- [VS Code](https://github.com/Microsoft/vscode#readme)
+
+## Dev tools
 - [Paw](https://paw.cloud/)
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
-- [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Tower](https://www.git-tower.com/mac/)
+- [Dash](https://kapeli.com/dash)
+- [Bee](https://www.neat.io/bee/) - Issue tracker.
+- [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
+- [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
 ## Text Editors
 - [Atom](https://atom.io)
@@ -133,6 +142,9 @@
 
 ## Other
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
+- [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) - Brings thousands of stunning high-resolution photos from Unsplash to your desktop.
+- [Dictionaries](https://dictionaries.io/) - Translate words without ever opening a dictionary.
+- [Detexify](http://detexify.kirelabs.org/classify.html) - Draw a symbol and get LaTeX code for it.
 
 ## Related
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#readme)

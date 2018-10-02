@@ -62,6 +62,7 @@
 
 ## Design
 
+- [Affinity Designer](https://affinity.serif.com/designer/) - Vector-based design tool.
 - [Affinity Photo](https://affinity.serif.com/photo/) - Raster-based design tool.
 - [Framer X](https://framer.com/) - Interactive design tool.
 - [Iconizer](http://raphaelhanneken.github.io/iconizer/) - Create Xcode asset catalogs on the fly.

@@ -62,6 +62,7 @@
 
 ## Design
 
+- [Affinity Photo](https://affinity.serif.com/photo/) - Raster-based design tool.
 - [Iconizer](http://raphaelhanneken.github.io/iconizer/) - Create Xcode asset catalogs on the fly.
 - [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures.
 - [Patina](http://www.patinaapp.com/)

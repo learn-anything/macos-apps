@@ -35,6 +35,7 @@
 ## Audio
 
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
+- [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 
 ## Code
 

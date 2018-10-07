@@ -141,9 +141,9 @@
 
 ## Read
 
+- [iBooks](https://www.apple.com/lae/ibooks/)
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
-- [iBooks](https://www.apple.com/lae/ibooks/)
 
 ## Related
 

@@ -20,27 +20,27 @@
 - [Images](#images)
 - [Learn](#learn)
 - [Music](#music)
-- [Other](#other)
 - [Productivity](#productivity)
 - [Read](#read)
-- [Related](#related)
 - [Terminal emulators](#terminal-emulators)
 - [Text Editors](#text-editors)
 - [Utilities](#utilities)
 - [Video](#video)
 - [Write](#write)
+- [Other](#other)
+- [Related](#related)
 
 ---
 
 ## Audio
 
-- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 
 ## Code
 
-- [VS Code](https://github.com/Microsoft/vscode#readme)
 - [iTerm](https://www.iterm2.com/)
+- [VS Code](https://github.com/Microsoft/vscode#readme)
 
 ## Communication
 
@@ -119,13 +119,6 @@
 - [Spotify](https://www.spotify.com/)
 - [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
 
-## Other
-
-- [Detexify](http://detexify.kirelabs.org/classify.html) - Draw a symbol and get LaTeX code for it.
-- [Dictionaries](https://dictionaries.io/) - Translate words without ever opening a dictionary.
-- [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) - Brings thousands of stunning high-resolution photos from Unsplash to your desktop.
-- [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
-
 ## Productivity
 
 - [2Do](https://www.2doapp.com/) - Powerful & flexible GTD task manager.
@@ -145,18 +138,10 @@
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
 
-## Related
-
-- [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps#readme)
-- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
-- [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
-- [My macOS](https://github.com/nikitavoloboev/my-mac-os#readme) - Curated list of tools & apps.
-
 ## Terminal emulators
 
-- [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator.
 - [iTerm](https://github.com/gnachman/iTerm2)
+- [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator.
 
 ## Text Editors
 
@@ -209,6 +194,21 @@
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
+
+## Other
+
+- [Detexify](http://detexify.kirelabs.org/classify.html) - Draw a symbol and get LaTeX code for it.
+- [Dictionaries](https://dictionaries.io/) - Translate words without ever opening a dictionary.
+- [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) - Brings thousands of stunning high-resolution photos from Unsplash to your desktop.
+- [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
+
+## Related
+
+- [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
+- [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps#readme)
+- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
+- [My macOS](https://github.com/nikitavoloboev/my-mac-os#readme) - Curated list of tools & apps.
 
 ---
 

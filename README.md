@@ -131,6 +131,7 @@
 - [Timing 2](https://betalist.com/startups/timing-2)
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
+- [Taskade](https://taskade.com/downloads) - Simple and sharable task lists, notes and outlines.
 
 ## Read
 

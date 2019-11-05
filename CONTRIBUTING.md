@@ -8,7 +8,6 @@ Ensure your pull request adheres to following guidelines:
 - Only add apps you think are great! Feel welcome to remove entries that you think aren't great!
 - Use the following format: `<[Name](link) - Description.`
 - The app should be put into its appropriate category. Pick one you think is closest if you are not sure.
-- Only add apps you think are awesome. Don't submit your own content for marketing purposes.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.

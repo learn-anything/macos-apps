@@ -163,6 +163,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
 - [Gitify](https://github.com/manosim/gitify)
 - [Hammerspoon](http://www.hammerspoon.org/)
+- [Hummingbird](https://hummingbirdapp.site) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 - [HexFriend](https://github.com/ridiculousfish/HexFiend/) - Fast and clever open source hex editor.
 - [IStat menus](https://bjango.com/mac/istatmenus/)
 - [Kap](https://getkap.co/)

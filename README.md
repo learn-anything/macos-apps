@@ -203,6 +203,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) - Brings thousands of stunning high-resolution photos from Unsplash to your desktop.
 - [GarageSale](https://www.iwascoding.com/GarageSale/) - Make and manage eBay listings.
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
+- [Diagrams](https://diagrams.app/) - Diagram Editor.
 
 ## Related
 

@@ -50,6 +50,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [1Password](https://1password.com/)
 - [Hider 2](https://macpaw.com/hider)
+- [Remembear](https://www.remembear.com)
 
 ## Databases
 

@@ -205,6 +205,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [GarageSale](https://www.iwascoding.com/GarageSale/) - Make and manage eBay listings.
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
 - [Diagrams](https://diagrams.app/) - Diagram Editor.
+- [Service Station](https://apps.apple.com/us/app/service-station/id1503136033?mt=12) - Customize Right-Click Menu.
 
 ## Related
 

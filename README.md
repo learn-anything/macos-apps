@@ -200,6 +200,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Other
 
 - [Detexify](http://detexify.kirelabs.org/classify.html) - Draw a symbol and get LaTeX code for it.
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS.
 - [Dictionaries](https://dictionaries.io/) - Translate words without ever opening a dictionary.
 - [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) - Brings thousands of stunning high-resolution photos from Unsplash to your desktop.
 - [GarageSale](https://www.iwascoding.com/GarageSale/) - Make and manage eBay listings.

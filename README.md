@@ -115,6 +115,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Noizio](http://noiz.io/)
 - [Spotify](https://www.spotify.com/)
 - [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
+- [LyricsX](https://github.com/ddddxxx/LyricsX) - Ultimate lyrics app for macOS.
 
 ## Productivity
 

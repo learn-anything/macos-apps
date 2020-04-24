@@ -208,7 +208,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
 - [Diagrams](https://diagrams.app/) - Diagram Editor.
 - [Service Station](https://apps.apple.com/us/app/service-station/id1503136033?mt=12) - Customize Right-Click Menu.
-- [Presentify](https://presentify.compzets.com/) - macOS menu bar app that helps you give better presentations by letting you annotate any screen, highlight your cursor, and more.
+- [Presentify](https://presentify.compzets.com/) - macOS menu bar app that helps you give better presentations by letting you annotate any screen, highlight your cursor, and more. ([HN](https://news.ycombinator.com/item?id=22938604))
 
 ## Related
 

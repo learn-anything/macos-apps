@@ -209,6 +209,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Diagrams](https://diagrams.app/) - Diagram Editor.
 - [Service Station](https://apps.apple.com/us/app/service-station/id1503136033?mt=12) - Customize Right-Click Menu.
 - [Presentify](https://presentify.compzets.com/) - macOS menu bar app that helps you give better presentations by letting you annotate any screen, highlight your cursor, and more. ([HN](https://news.ycombinator.com/item?id=22938604))
+- [Keyboard Cleaner](http://jan.prima.de/~jan/plok/archives/48-Keyboard-Cleaner.html)
 
 ## Related
 
@@ -222,4 +223,3 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-

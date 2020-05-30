@@ -198,6 +198,11 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
 
+## Preference Panes
+
+- [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps/releases/latest) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
+- [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
+
 ## Other
 
 - [Detexify](http://detexify.kirelabs.org/classify.html) - Draw a symbol and get LaTeX code for it.
@@ -205,7 +210,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Dictionaries](https://dictionaries.io/) - Translate words without ever opening a dictionary.
 - [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) - Brings thousands of stunning high-resolution photos from Unsplash to your desktop.
 - [GarageSale](https://www.iwascoding.com/GarageSale/) - Make and manage eBay listings.
-- [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
 - [Diagrams](https://diagrams.app/) - Diagram Editor.
 - [Service Station](https://apps.apple.com/us/app/service-station/id1503136033?mt=12) - Customize Right-Click Menu.
 - [Presentify](https://presentify.compzets.com/) - macOS menu bar app that helps you give better presentations by letting you annotate any screen, highlight your cursor, and more. ([HN](https://news.ycombinator.com/item?id=22938604))

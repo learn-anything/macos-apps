@@ -188,6 +188,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [IINA](https://github.com/lhc70000/iina)
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+- [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
 
 ## Write
 

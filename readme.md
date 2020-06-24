@@ -1,8 +1,6 @@
-# macOS apps [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# macOS apps [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Audio](#audio)
 - [Code](#code)
@@ -35,7 +33,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Code
 
 - [iTerm](https://www.iterm2.com/)
-- [VS Code](https://github.com/Microsoft/vscode#readme)
+- [VS Code](https://github.com/Microsoft/vscode)
 
 ## Communication
 
@@ -218,13 +216,13 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Related
 
-- [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
-- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps#readme)
-- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
-- [My macOS](https://github.com/nikitavoloboev/my-mac-os#readme) - Curated list of tools & apps.
+- [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
+- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps)
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
+- [My macOS](https://github.com/nikitavoloboev/my-mac-os) - Curated list of tools & apps.
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)

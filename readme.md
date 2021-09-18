@@ -159,7 +159,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
 - [Daisy disk](https://daisydiskapp.com/)
-- [Dropzone 3](https://aptonic.com/)
+- [Dropzone 4](https://aptonic.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
 - [Gitify](https://github.com/manosim/gitify)
 - [Hammerspoon](http://www.hammerspoon.org/)

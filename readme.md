@@ -183,7 +183,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Video
 
-- [Dragand](http://dragand.watch/)
 - [IINA](https://github.com/lhc70000/iina)
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)

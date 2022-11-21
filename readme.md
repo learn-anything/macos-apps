@@ -169,7 +169,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [IStat menus](https://bjango.com/mac/istatmenus/)
 - [Kap](https://getkap.co/)
 - [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful keyboard customizer.
-- [Keka](http://www.kekaosx.com/en/)
+- [Keka](https://www.keka.io)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Lumen](https://github.com/anishathalye/lumen)
 - [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar

@@ -122,6 +122,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [BetterTouchTool](https://www.boastr.net/)
 - [Fantastical](https://flexibits.com/fantastical)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
+- [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tag and archive documents.
